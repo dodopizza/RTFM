@@ -64,6 +64,6 @@
   * Развитие и возможности в IT.
   * [Onboarding](https://habr.com/ru/company/dododev/blog/510382/).
 * Как проходят собеседования и как стать частью нашей команды:
-  * [Как проходят собеседования](https://habr.com/ru/company/dododev/blog/490372/).
+  * Как проходят собеседования
   * [Вакансии](https://dodo.dev/manager#jobs).
 * [Где нас можно найти](%D0%93%D0%B4%D0%B5%20%D0%BD%D0%B0%D1%81%20%D0%BC%D0%BE%D0%B6%D0%BD%D0%BE%20%D0%BD%D0%B0%D0%B9%D1%82%D0%B8.md).
