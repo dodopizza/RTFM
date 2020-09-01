@@ -17,4 +17,4 @@
 * [99 developers](https://t.me/ctodevelopers) (про нашу команду канал СТО)
 * [DDDevotion](https://t.me/dddevotion) (про DDD)
 * [Of Code & Men](https://t.me/ofcodeandmen) (The best laid schemes of code and men. Go often askew)
-* [DE or DIE chat](https://t.me/deordie_chat) (чат дата инженеров)
+* [DE or DIE Community](https://deordie.com) (сообщество дата инженеров)
