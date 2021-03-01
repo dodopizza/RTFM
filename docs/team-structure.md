@@ -10,7 +10,7 @@
 
 *Так выглядит наша команда.*
 
-![Матрица ролей: команда](https://habrastorage.org/webt/bh/lp/ue/bhlpueggylxhqthxx8u-i2qke5q.png)
+![Матрица ролей: команда](https://github.com/DarjaM/RTFM/blob/master/press%20f_%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D0%B0%20%D0%BD%D0%BE%D0%B2%D0%B0%D1%8F.png)
 
 ## Описание ролей
 
