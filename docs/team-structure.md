@@ -6,11 +6,11 @@
 
 *Каждый разработчик может занимать одну или несколько ролей, в зависимости от его скиллов и желания.*
 
-![Матрица ролей: разработчик](https://habrastorage.org/webt/bt/px/zm/btpxzmet4pbhvlad1iu1som-dim.png)
+![Матрица ролей: разработчик](../images/developer.png)
 
 *Так выглядит наша команда.*
 
-![Матрица ролей: команда](https://github.com/DarjaM/RTFM/blob/master/press%20f_%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D0%B0%20%D0%BD%D0%BE%D0%B2%D0%B0%D1%8F.png)
+![Матрица ролей: команда](../images/structure.png)
 
 ## Описание ролей
 
