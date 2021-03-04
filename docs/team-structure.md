@@ -10,7 +10,7 @@
 
 *Так выглядит наша команда.*
 
-![Матрица ролей: команда](../images/structure.png)
+![image (38)](https://user-images.githubusercontent.com/32956110/109942064-def64000-7ce4-11eb-9dbc-80b7a8e1dcab.png)
 
 ## Описание ролей
 
