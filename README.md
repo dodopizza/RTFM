@@ -43,7 +43,7 @@
 
 # 7 технологических радаров Dodo Engineering
 
-1. [Infrastructure](https://radar.thoughtworks.com/?sheetId=https://docs.google.com/spreadsheets/d/1ztSpWjMYITWqemHAWOQvKZif308NzDSKsqmdBAA8EE4&sheetName=Jun%2C%202020).
+1. [Infrastructure](https://radar.thoughtworks.com/?sheetId=https://docs.google.com/spreadsheets/d/1ztSpWjMYITWqemHAWOQvKZif308NzDSKsqmdBAA8EE4).
 2. [Backend](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F18Q1uHEuyqqS3tttHHnHXBX1HGoKZ2QfSirTsPyiClTM%2Fedit%23gid%3D0).
 3. [Frontend](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F15B0mJaxj8gdS4opGCsn42w3PeIAV0YCfVeEFzzcFe5w%2Fedit%23gid%3D0).
 4. [QA](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1Us_0_jAawz2CvGw2QWSNBBdkTszFEHU3OBIaCoBakkI%2Fedit%23gid%3D0).
