@@ -44,12 +44,12 @@
 # 7 технологических радаров Dodo Engineering
 
 1. [Infrastructure](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2Fe%2F2PACX-1vTkAM6j2AWXacXHXJTUsIXPDNaO3_TSGHf4hznVlAsxX-vqpBLh3IktlfdkfWg773MukCciR2b3qbeG%2Fpub%3Fgid%3D1595809259%26single%3Dtrue%26output%3Dcsv).
-2. [Backend](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F18Q1uHEuyqqS3tttHHnHXBX1HGoKZ2QfSirTsPyiClTM%2Fedit%23gid%3D0).
-3. [Frontend](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F15B0mJaxj8gdS4opGCsn42w3PeIAV0YCfVeEFzzcFe5w%2Fedit%23gid%3D0).
-4. [QA](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1Us_0_jAawz2CvGw2QWSNBBdkTszFEHU3OBIaCoBakkI%2Fedit%23gid%3D0).
-5. [Data](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1AlBKLqQbfXnw4GOdcsnfmWDt8gpGyp2VuezmvnsLMTo%2Fedit%23gid%3D0).
-6. [iOS](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1675l-O8_tuO15uGCYaevKwvuTAvLbY2GdLNwzzPSX7c%2Fedit%23gid%3D0).
-7. [Android](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1Gfjm3g3-u-WrZsynq7trQ3PiqQJozf7ceNy6wdUvxYk%2Fedit%23gid%3D0).
+2. [Backend](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2Fe%2F2PACX-1vR_ganQRbiNyK5yTlbM_NtdiTFDxBAuWqM-IXIdhpw-J54HVK3afvYQdxmPCOVbnDaHpT8819hHSoC9%2Fpub%3Fgid%3D0%26single%3Dtrue%26output%3Dcsv).
+3. [Frontend](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2Fe%2F2PACX-1vTXZPdjmJpGKkiYVdVbIqTckcwZL_Wt6fCE8nK5-EPMERJSaerlMW3aEM0PuRxwhg-Js6Fa1wOAEU3S%2Fpub%3Fgid%3D604704275%26single%3Dtrue%26output%3Dcsv).
+4. [QA](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2Fe%2F2PACX-1vTg7AiVyTvKoyLV6bYG0hdhgXyWt_cDFbSD91oyQqYF5eTAoQf_Gm347TW-jKHxW6vmK58Rlq0dqGXg%2Fpub%3Fgid%3D1077860502%26single%3Dtrue%26output%3Dcsv).
+5. [Data](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2Fe%2F2PACX-1vSm1jr1lCAIhic4_FN0ghI2e536MrOq_vIQK6Spi7P-EMCLxRpWXA8QOpTbi-0_DgrQSWLIY63kHnKN%2Fpub%3Fgid%3D0%26single%3Dtrue%26output%3Dcsv).
+6. [iOS](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2Fe%2F2PACX-1vSRJehdNmXfaAjvOeFqf_rgB_ePpdIXtglUp0Wt_iH6VGuE8AJsBsMXenDenn7P1hpkTuDNnBpPqy0R%2Fpub%3Fgid%3D892813566%26single%3Dtrue%26output%3Dcsv).
+7. [Android](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2Fe%2F2PACX-1vQLlVWsdUqugTQf6NGkbmAMbrQSC6_94119wL6eUYmB9Ag88PrIIZANaJXrGMS5r1HLVrQVwJvi_MsN%2Fpub%3Fgid%3D1775347845%26single%3Dtrue%26output%3Dcsv).
 
 # Что ещё?
 
