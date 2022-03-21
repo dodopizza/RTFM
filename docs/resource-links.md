@@ -5,7 +5,6 @@
 * [dodo.dev](https://dodo.dev/)
 * [Habr](https://habr.com/ru/company/dododev/)
 * [VK](https://vk.com/dododev)
-* [Facebook](https://www.facebook.com/dodopizzadev/)
 * [Twitter](https://twitter.com/dodopizzadev)
 * [Telegram channel](https://t.me/dododev)
 * [Telegram chat](https://t.me/dododevchat)
