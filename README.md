@@ -30,15 +30,13 @@
 
 # Коротко о технологиях
 
-* .NET Framework, переходим постепенно на .NET Core:
-  * ASP.NET MVC в монолите – 14 сервисов;
-  * ASP.NET Core в монолите – 2 сервиса;
-  * ASP.NET Core вне монолита на win серверах – 4 сервиса;
-  * ASP.NET Core вне монолита в k8s – 24 сервиса.
+* .NET 6:
+  * ASP.NET Core в монолите – 16 сервисов;
+  * ASP.NET Core вне монолита в k8s – 30 сервисов.
 * на сайте React + TypeScript, в бекофисе мигрируем с jQuery, Angular первых версий тоже на React + TypeScript;
 * 36 баз MySql на кластерах, кроме dev окружений;
 * всё на Azure, с использованием RabbitMQ (местами Kafka, Azure Event Hubs), Kusto, CosmosDB, Redis и ещё много мелких радостей;
-* все новые сервисы мы пишем на .Net, под Linux, запускаем в Kubernetes;
+* все сервисы мы пишем на .NET, под Linux, запускаем в Kubernetes;
 * детальный мониторинг на продакшене на базе Prometheus, сбор логов в Kusto, визуализация в Grafana, пейджер для дежурного в PagerDuty.
 
 # 7 технологических радаров Dodo Engineering
