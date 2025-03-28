@@ -2,7 +2,7 @@
 
 Dodo Engineering is a team developing the first digital franchising platform, Dodo IS. Dodo IS Platform digitalizes every micro process in our QSR businesses from Dodo Brands: Dodo Pizza, Drinkit, and Doner 42. It covers all parts of the restaurant business — from shift scheduling and order tracking to real-time sales analytics. In addition, the platform is fully integrated with our customer-facing digital products. It already works in 17 countries in 900+ restaurants. In addition, we have Dodo IS API and Marketplace, so any vendor may develop some add-ons for our system and improve our partners' processes and profits.
 
-[![http://dodo.dev/](images/DODO IS Global Platform (1).png)](http://dodo.dev/)
+[(images/DODO IS Global Platform (1).png)]
 
 # Numbers
 
