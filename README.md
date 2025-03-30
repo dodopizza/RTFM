@@ -1,16 +1,16 @@
-# Hello, this is Dodo IS Platform team!
+# Hello, this is Dodo Engineering team!
 
-Dodo Engineering is a team developing the first digital franchising platform, Dodo IS. Dodo IS Platform digitalizes every micro process in our QSR businesses from Dodo Brands: Dodo Pizza, Drinkit, and Doner 42. It covers all parts of the restaurant business — from shift scheduling and order tracking to real-time sales analytics. In addition, the platform is fully integrated with our customer-facing digital products. It already works in 17 countries in 900+ restaurants. In addition, we have Dodo IS API and Marketplace, so any vendor may develop some add-ons for our system and improve our partners' processes and profits.
+Dodo Engineering is a team developing the first digital franchising platform, Dodo IS. Dodo IS Platform digitalizes every micro process in our QSR businesses from Dodo Brands: Dodo Pizza and Drinkit. It covers all parts of the restaurant business — from shift scheduling and order tracking to real-time sales analytics. In addition, the platform is fully integrated with our customer-facing digital products. It already works in 24 countries in 1200+ restaurants and cafees. In addition, we have Dodo IS API and Marketplace, so any vendor can develop some add-ons for our system and improve our partners' processes and profits.
 
-[(images/DODO IS Global Platform (1).png)]
+![DODO IS Global Platform (1)](https://github.com/user-attachments/assets/e858d99f-2c75-4423-8fd1-d4dce69e781f)
 
 # Numbers
 
-* 250+ employees at Dodo Engineering
-* 900+ restaurants in 17 countries
+* 370+ employees at Dodo Engineering
+* 1200+ restaurants in 24 countries
 * 22 000 000+ clients
-* $ 831 000 000 sales revenue
-* 350 orders per minute (760 is our record)
+* $ 1 000 000 000 sales revenue
+* 350 orders per minute (800 is our record)
 * 5800 RPS
 
 # Technology stack
@@ -35,17 +35,16 @@ Dodo Engineering is a team developing the first digital franchising platform, Do
 
 # Want to know more?
 
-* [LinkedIn](https://www.linkedin.com/showcase/dodoengineering/)
-* [Medium](https://medium.com/dodoengineering)
+* [Dodo Engineering on Telegram](https://t.me/dododev)
+* [Dodo IS Markeplace on Telegram](https://t.me/dodo_is_marketplace)
+* [Habr](https://habr.com/ru/companies/dododev/articles/)
 * [Dodo Brands](https://dodobrands.io/ru//)
 * [Dodo Brands LinkedIn](https://www.linkedin.com/company/dodobrands/)
-* [Company Structure](https://miro.com/app/board/o9J_kyKdPj0=/)
+* [Join Dodo Engineering team](https://dodoteam.ru/vacancies)
 
-# Dodo IS in Russian
+# Also 
 
 * [What is Dodo IS](https://habr.com/ru/company/dododev/blog/506136/)
-* [Dodo Engineering in Telegram](https://t.me/dododev)
-* [Dodo IS Markeplace in Telegram](https://t.me/dodo_is_marketplace)
-* [Global and Market Teams](https://habr.com/ru/company/dododev/blog/666028/)
 * [Mission and Strategy](https://github.com/dodopizza/RTFM/blob/master/docs/our-mission.md)
-* [Join Dodo Engineering team](https://dodo.dev/manager#jobs)
+* [Global and Market Teams](https://habr.com/ru/company/dododev/blog/666028/)
+* [Join Dodo Engineering team](https://dodoteam.ru/vacancies)
