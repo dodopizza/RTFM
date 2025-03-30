@@ -7,10 +7,10 @@ Dodo Engineering is a team developing the first digital franchising platform, Do
 # Numbers
 
 * 370+ employees at Dodo Engineering
-* 1200+ restaurants in 24 countries
+* 1250+ pizzerias in 23 countries / 70+ coffee shops in 3 countries 
 * 22 000 000+ clients
 * $ 1 000 000 000 sales revenue
-* 350 orders per minute (800 is our record)
+* 400 orders per minute (820 is our record)
 * 5800 RPS
 
 # Technology stack
@@ -33,18 +33,19 @@ Dodo Engineering is a team developing the first digital franchising platform, Do
 6. [iOS Dodo Pizza](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2Fe%2F2PACX-1vSNCJEF7o6lYiu7z9WIdLqEyyoW6V94_50wyK5AWP9uW0oA3w4jKaU__jy3fyhOeGdZI2yiSL6VwjL3%2Fpub%3Fgid%3D0%26single%3Dtrue%26output%3Dcsv%26format%3D%2FDodo+Engineering+-+Dodo+Pizza+iOS+-+March+2023.csv)
 7. [Android](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2Fe%2F2PACX-1vRIJRCLRWKilMgx5rypHoCwGlUOpB79v4-oPPdSvNNSPkkgVao2uja2O4j1eEWqeUn34Ri0rzaNgut3%2Fpub%3Fgid%3D892813566%26single%3Dtrue%26output%3Dcsv%26format%3D%2FDodo+Engineering+Android.csv)
 
-# Want to know more?
+# Want to know more about Dodo Engineering?
 
 * [Dodo Engineering on Telegram](https://t.me/dododev)
+* [Our products and stack](https://dodoengineering.ru)
 * [Dodo IS Markeplace on Telegram](https://t.me/dodo_is_marketplace)
-* [Habr](https://habr.com/ru/companies/dododev/articles/)
-* [Dodo Brands](https://dodobrands.io/ru//)
-* [Dodo Brands LinkedIn](https://www.linkedin.com/company/dodobrands/)
+* [Our Habr](https://habr.com/ru/companies/dododev/articles/)
 * [Join Dodo Engineering team](https://dodoteam.ru/vacancies)
-
-# Also 
-
 * [What is Dodo IS](https://habr.com/ru/company/dododev/blog/506136/)
+
+# Also here's something about Dodo Brands 
+
+* [Dodo Brands website](https://dodobrands.io/ru//)
 * [Mission and Strategy](https://github.com/dodopizza/RTFM/blob/master/docs/our-mission.md)
 * [Global and Market Teams](https://habr.com/ru/company/dododev/blog/666028/)
-* [Join Dodo Engineering team](https://dodoteam.ru/vacancies)
+* [Orders in real time](https://realtime.dodobrands.io)
+* [Dodo Brands LinkedIn](https://www.linkedin.com/company/dodobrands/)
