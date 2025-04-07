@@ -37,6 +37,7 @@ Dodo Engineering is a team developing the first digital franchising platform, Do
 
 * [Dodo Engineering on Telegram](https://t.me/dododev)
 * [Our products and stack](https://dodoengineering.ru)
+* [Youtube shorts about our IT teams](https://youtube.com/playlist?list=PLXOrZPAO2Ui3czfa8eo7kP5EJTIvJ9exE&si=xnYIzlgHJ4llKJOy)
 * [Dodo IS Markeplace on Telegram](https://t.me/dodo_is_marketplace)
 * [Our Habr](https://habr.com/ru/companies/dododev/articles/)
 * [Join Dodo Engineering team](https://dodoteam.ru/vacancies)
