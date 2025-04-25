@@ -10,7 +10,7 @@ Dodo Engineering is a team developing the first digital franchising platform, Do
 * 1250+ pizzerias in 23 countries / 70+ coffee shops in 3 countries 
 * 22 000 000+ clients
 * $ 1 000 000 000 sales revenue
-* 400 orders per minute (820 is our record)
+* 400 orders per minute (847 is our record)
 * 5800 RPS
 
 # Technology stack
